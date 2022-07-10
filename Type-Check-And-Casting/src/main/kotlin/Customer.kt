@@ -1,0 +1,1 @@
+class Customer(val name: String) // => secara default class customer : Any()
